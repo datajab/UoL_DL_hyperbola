@@ -1,0 +1,7 @@
+## subsurface properties
+#material: 1 0 1 0 my_free_space
+#material: 3.2 0 1 0 plastic
+#material: 81 0.001 1 0 my_water
+#material: 5 0.001 1 0 drySand
+#material: 20 0.01 1 0 wetSand
+#material: 30 0.05 1 0 swamp
